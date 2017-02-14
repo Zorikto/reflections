@@ -18,11 +18,17 @@ current file and staged file
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+The situation when I need few versions of my main project could be easily managed
+with branches
 
 How do the diagrams help you visualize the branch structure?
+It helps to overview whole commits history
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is that we can combine result of workflows
+We use diagram in order to make easy understand history of changes
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+During manual merge I have more control and can fix conflicts
