@@ -25,5 +25,5 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+- When I work on different feature
+- It helps keep main project save and at the same time work on other possible opportunities
